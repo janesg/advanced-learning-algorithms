@@ -1,6 +1,6 @@
 # advanced-learning-algorithms
 
-Module 2 of the Coursera specialization: Machine Learning Specialization
+Module 2 of the Coursera: Machine Learning Specialization
 
 * https://www.coursera.org/specializations/machine-learning-introduction
 
